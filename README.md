@@ -131,3 +131,6 @@ pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu118
 ```
 
 ---
+
+## Sample Ouptput
+![Sample Output](antibio.png)
